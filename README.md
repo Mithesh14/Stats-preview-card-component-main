@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <a href="https://github.com/Mithesh14/Stats-preview-card-component-main">Stats preview card component</a>
-- Live Site URL: <a href="https://mithesh14.github.io/chat-app-css-illustration-master/">Stats preview card component</a>
+- Live Site URL: <a href="https://mithesh14.github.io/Stats-preview-card-component-main/">Stats preview card component</a>
 
 ## My process
 
